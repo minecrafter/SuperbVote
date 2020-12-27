@@ -16,6 +16,7 @@ storage:
     table: votes
     streaks-table: streaks
     read-only: false
+    ssl: true
 
 # General vote configuration.
 votes:
